@@ -22,11 +22,11 @@ div {
 @media(max-width: 575px) {
   #fotoPerfil {
     position: absolute;
-    width: 35%;
+    width: 25%;
     border-radius: 30%;
     box-shadow: 3px 3px 3px gray;
     left: 33%;
-    top: 520px;
+    top: 608px;
   }
 
 }
